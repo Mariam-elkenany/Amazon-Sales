@@ -1,7 +1,7 @@
 # Amazon Sales (Data Engineering Project)
 
 ## Project Overview
-This project focuses on designing, building, and analyzing a data architecture for a sales-based dataset. We started with the database design in SQL Server, followed by data analysis in SQL, exploratory data analysis (EDA) and forecasting in Python, and ultimately data warehousing in Azure Synapse Analytics.[`project presentation.pptx`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/Final%20project%20presentation.pptx)
+This project focuses on designing, building, and analyzing a data architecture for a sales-based dataset. We started with the database design in SQL Server, followed by data analysis in SQL, exploratory data analysis (EDA) and forecasting in Python, and ultimately data warehousing in Azure Synapse Analytics.[`project presentation.pptx`](https://github.com/Mariam-elkenany/Amazon-Sales/blob/main/Final%20project%20presentation.pptx)
 
 ## Project Steps
 
@@ -28,5 +28,5 @@ This project focuses on designing, building, and analyzing a data architecture f
 
 
 ### 5. Loading Data into Azure Synapse Analytics
-   - Loaded CSV files into the dedicated SQL pool in Microsoft Azure, setting up a scalable environment for reporting, analytics, and future integrations.[`Final project presentation.pptx`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/Final%20project%20presentation.pptx)
+   - Loaded CSV files into the dedicated SQL pool in Microsoft Azure, setting up a scalable environment for reporting, analytics, and future integrations.[`Final project presentation.pptx`](https://github.com/Mariam-elkenany/Amazon-Sales/blob/main/Final%20project%20presentation.pptx)
 
