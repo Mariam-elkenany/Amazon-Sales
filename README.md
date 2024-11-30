@@ -12,19 +12,19 @@ This project focuses on designing, building, and analyzing a data architecture f
 
      
 ### 2. Data Analysis in SQL
-   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.[`AmazonSales_SQL Analysis`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/final%20SQL%20queries.sql)
+   - Conducted analysis using SQL queries on the raw data to gain initial insights into sales patterns, trends, and customer behavior.[`AmazonSales_SQL Analysis`](https://github.com/Mariam-elkenany/Amazon-Sales/blob/main/final%20SQL%20queries.sql)
 
 
 
 ### 3. Exploratory Data Analysis (EDA) and Sales Forecasting in Python
    - Performed EDA on the dataset to understand distributions, correlations, and data quality.
-   - Built a sales forecasting model in Python to predict future sales trends based on historical data.[`Amazon Sales EDA and Forecast`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/E-Commerce%20Sales%20Forecast.ipynb)
+   - Built a sales forecasting model in Python to predict future sales trends based on historical data.[`Amazon Sales EDA and Forecast`](https://github.com/Mariam-elkenany/Amazon-Sales/blob/main/E-Commerce%20Sales%20Forecast.ipynb)
 
 
 ### 4. Data Warehousing and ETL with Snowflake Schema
    - Designed and implemented a data warehouse using the Snowflake schema model.
    - **DWH Image** : <img src="https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/QuickDBD-Amazon%20Sales%20DB.png?raw=true">
-   - Developed an ETL pipeline in Python to extract data from SQL Server, perform necessary transformations, and load the processed data as CSV files.[`Amazon Sales ETL`](https://github.com/AhmedAboelkasem/Amazon-Sales/blob/main/files%20preparation%20_%20ETL.ipynb)
+   - Developed an ETL pipeline in Python to extract data from SQL Server, perform necessary transformations, and load the processed data as CSV files.[`Amazon Sales ETL`](https://github.com/Mariam-elkenany/Amazon-Sales/blob/main/files%20preparation%20_%20ETL.ipynb)
 
 
 ### 5. Loading Data into Azure Synapse Analytics
