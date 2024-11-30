@@ -1,0 +1,11 @@
+WarehouseAltID,warehouseName,locationCity,locationRegion,address,capacity,Phone,managerName,operationalStatus,warehouseID
+1,Cairo Central Warehouse,Cairo,Greater Cairo,123 Al Haram St Giza,50000,+20 1122334455,Ahmed Hassan,Active,1
+2,Alexandria Storage Hub,Alexandria,Alexandria Governorate,45 Corniche Rd,30000,+20 1023456789,Omar Salah,Active,2
+3,Suez Canal Warehouse,Suez,Suez Governorate,12 Port Tawfik St,15000,+20 1223344556,Youssef Ali,Active,3
+4,Mansoura Distribution Center,Mansoura,Dakahlia Governorate,8 Tahrir Square,25000,+20 1229876543,Mohamed Samir,Active,4
+5,Aswan Southern Depot,Aswan,Aswan Governorate,4 Nile Corniche,10000,+20 1123567890,Mariam El-Shazly,Active,5
+6,Tanta Storage Facility,Tanta,Gharbia Governorate,17 El-Gomhoreya St,20000,+20 1034567891,Mostafa Kamel,Active,6
+7,Ismailia Coastal Hub,Ismailia,Ismailia Governorate,11 El-Nahda St,12000,+20 1029384756,Laila Zaki,Active,7
+8,Luxor Distribution Center,Luxor,Luxor Governorate,9 Karnak Temple St,18000,+20 1023346789,Salma Fathi,Active,8
+9,Fayoum Central Warehouse,Fayoum,Fayoum Governorate,3 Al-Mashtal St,16000,+20 1223456780,Ibrahim Nassar,Active,9
+10,Sharm El-Sheikh Logistics Hub,Sharm El-Sheikh,South Sinai Governorate,2 Peace Road,22000,+20 1234567892,Amira Hossam,Active,10

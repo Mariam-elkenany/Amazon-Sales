@@ -1,0 +1,5 @@
+Sales_Channel ,ship_service_level,Channel_ShipServiceID
+Non-Amazon,Standard,1
+Amazon.in,Expedited,2
+Nonmazon,Standard,3
+Amazon.in,Standard,4
